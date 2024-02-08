@@ -1,0 +1,14 @@
+/Users/okan/Desktop/cleancodedemo/obj/Debug/net8.0/cleancodedemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/okan/Desktop/cleancodedemo/obj/Debug/net8.0/cleancodedemo.AssemblyInfoInputs.cache
+/Users/okan/Desktop/cleancodedemo/obj/Debug/net8.0/cleancodedemo.AssemblyInfo.cs
+/Users/okan/Desktop/cleancodedemo/obj/Debug/net8.0/cleancodedemo.csproj.CoreCompileInputs.cache
+/Users/okan/Desktop/cleancodedemo/bin/Debug/net8.0/cleancodedemo
+/Users/okan/Desktop/cleancodedemo/bin/Debug/net8.0/cleancodedemo.deps.json
+/Users/okan/Desktop/cleancodedemo/bin/Debug/net8.0/cleancodedemo.runtimeconfig.json
+/Users/okan/Desktop/cleancodedemo/bin/Debug/net8.0/cleancodedemo.dll
+/Users/okan/Desktop/cleancodedemo/bin/Debug/net8.0/cleancodedemo.pdb
+/Users/okan/Desktop/cleancodedemo/obj/Debug/net8.0/cleancodedemo.dll
+/Users/okan/Desktop/cleancodedemo/obj/Debug/net8.0/refint/cleancodedemo.dll
+/Users/okan/Desktop/cleancodedemo/obj/Debug/net8.0/cleancodedemo.pdb
+/Users/okan/Desktop/cleancodedemo/obj/Debug/net8.0/cleancodedemo.genruntimeconfig.cache
+/Users/okan/Desktop/cleancodedemo/obj/Debug/net8.0/ref/cleancodedemo.dll
